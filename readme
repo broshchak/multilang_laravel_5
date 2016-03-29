@@ -30,7 +30,6 @@ protected $middlewareGroups = [
 return [
     'en' => 'English',
     'fr' => 'Français',
-    'ua' => 'Українська',
 ];
 6. Go to root project directory and run:
 composer dumpautoload
