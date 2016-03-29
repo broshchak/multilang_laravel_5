@@ -1,0 +1,20 @@
+{
+    "name": "broshchak/multlang",
+    "description": "Multilanguage for Laravel 5.2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "broshchak",
+            "email": "qb2main@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "broshchak\\multlang\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
